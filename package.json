@@ -1,0 +1,22 @@
+{
+  "name": "prime-component-library",
+  "version": "0.0.1",
+  "description": "This is attended to be the component library of PRIME's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migikaspar/prime-component-library.git"
+  },
+  "keywords": [
+    "fractal"
+  ],
+  "author": "Misa Kaspar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migikaspar/prime-component-library/issues"
+  },
+  "homepage": "https://github.com/migikaspar/prime-component-library#readme"
+}
