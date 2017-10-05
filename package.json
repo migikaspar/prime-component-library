@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/migikaspar/prime-component-library/issues"
   },
-  "homepage": "https://github.com/migikaspar/prime-component-library#readme"
+  "homepage": "https://github.com/migikaspar/prime-component-library#readme",
+  "devDependencies": {
+    "@frctl/fractal": "^1.1.7"
+  }
 }
